@@ -14,6 +14,7 @@ group :development do
   gem 'spring'
 end
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'devise', '~> 4.3'
 
 group :development, :test do
 gem 'sqlite3'
